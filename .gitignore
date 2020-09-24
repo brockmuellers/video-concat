@@ -1,0 +1,7 @@
+backup/*
+originals/*
+reencoded/*
+*filenames.txt
+*.mp4
+!empty.mp4
+
